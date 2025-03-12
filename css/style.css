@@ -1,0 +1,30 @@
+.tabela{
+    /*border-collapse:colapse; (serve para quando quer dexar a lista junto)*/
+    width: 100%;
+}
+
+th, td{
+  
+    border: 2px solid #630fcf;
+    text-align: center;
+    border-radius: 4px;
+}
+
+th{
+ background-color: #9952f5;
+ color: rgb(0, 0, 0);
+ padding: 5px;
+ 
+}
+
+td:hover {
+    background-color: #8866b4;
+}
+ 
+body{
+    background-color: rgb(164, 145, 247);
+}
+
+.topo{
+    text-align: center;
+}
